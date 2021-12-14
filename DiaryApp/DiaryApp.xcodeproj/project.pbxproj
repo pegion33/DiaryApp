@@ -40,7 +40,6 @@
 		F3672B642768369E00D14BB9 /* ShowCalanderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3672B632768369E00D14BB9 /* ShowCalanderView.swift */; };
 		F3672B67276837F800D14BB9 /* DataBaseViewModelForCalander.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3672B66276837F800D14BB9 /* DataBaseViewModelForCalander.swift */; };
 		F3672B6A27683D5700D14BB9 /* ShowDiaryEntryForCalander.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3672B6927683D5700D14BB9 /* ShowDiaryEntryForCalander.swift */; };
-		F3672B752768669F00D14BB9 /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3672B742768669F00D14BB9 /* DataSource.swift */; };
 		F367855F276612F3004117CA /* DiaryEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = F367855E276612F3004117CA /* DiaryEntry.swift */; };
 		F367856B2766288B004117CA /* DiaryEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F367856A2766288B004117CA /* DiaryEntryView.swift */; };
 		F37D195F27679250001DA7E8 /* SwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37D195E27679250001DA7E8 /* SwitchView.swift */; };
@@ -61,7 +60,6 @@
 		F3672B632768369E00D14BB9 /* ShowCalanderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowCalanderView.swift; sourceTree = "<group>"; };
 		F3672B66276837F800D14BB9 /* DataBaseViewModelForCalander.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataBaseViewModelForCalander.swift; sourceTree = "<group>"; };
 		F3672B6927683D5700D14BB9 /* ShowDiaryEntryForCalander.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowDiaryEntryForCalander.swift; sourceTree = "<group>"; };
-		F3672B742768669F00D14BB9 /* DataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
 		F367855E276612F3004117CA /* DiaryEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryEntry.swift; sourceTree = "<group>"; };
 		F367856A2766288B004117CA /* DiaryEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryEntryView.swift; sourceTree = "<group>"; };
 		F37D195E27679250001DA7E8 /* SwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchView.swift; sourceTree = "<group>"; };
@@ -167,7 +165,6 @@
 			children = (
 				F38EC99C2763E89700974274 /* DiaryAppApp.swift */,
 				F37D195E27679250001DA7E8 /* SwitchView.swift */,
-				F3672B742768669F00D14BB9 /* DataSource.swift */,
 				F333A4D62764F3DE0040854B /* views */,
 				F38EC9A52763E8A000974274 /* Info.plist */,
 				F38EC9A02763E8A000974274 /* Assets.xcassets */,
@@ -294,7 +291,6 @@
 				F367856B2766288B004117CA /* DiaryEntryView.swift in Sources */,
 				F37D196327679C6C001DA7E8 /* AppViewModel.swift in Sources */,
 				F3672B6A27683D5700D14BB9 /* ShowDiaryEntryForCalander.swift in Sources */,
-				F3672B752768669F00D14BB9 /* DataSource.swift in Sources */,
 				F37D195F27679250001DA7E8 /* SwitchView.swift in Sources */,
 				F367855F276612F3004117CA /* DiaryEntry.swift in Sources */,
 				F34764CA276647D800CE1499 /* LoginView.swift in Sources */,
