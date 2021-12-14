@@ -16,22 +16,19 @@ The user can sort the diary entries by date
 The user can find diary entries of a specific date by tapping the calendar icon
 
 
+<img src="https://github.com/pegion33/DiaryApp/blob/main/Project%20ScreenShot/Login.png" width="200" height="400" />
+
+
+<img src="https://github.com/pegion33/DiaryApp/blob/main/Project%20ScreenShot/HomeScreen.png" width="200" height="400" />
+
+
+<img src="https://github.com/pegion33/DiaryApp/blob/main/Project%20ScreenShot/DiaryEntry.png" width="200" height="400" />
+
+
 <img src="https://github.com/pegion33/DiaryApp/blob/main/Project%20ScreenShot/Diary.png" width="200" height="400" />
 
-![Login](https://user-images.githubusercontent.com/56123142/145953924-40cb4e10-e25d-4d60-84e5-20ffe5471558.png =250x250)
 
-
-![HomeScreen](https://user-images.githubusercontent.com/56123142/145953945-23978a74-a442-4a25-8dc8-d00fd084b2c3.png =250x250)
-
-
-![DiaryEntry](https://user-images.githubusercontent.com/56123142/145953983-20c39944-a287-4853-b743-9597f64da34a.png =250x250)
-
-
-![Diary](https://user-images.githubusercontent.com/56123142/145953995-38702a35-3b43-47ba-a23d-dd3b643d973a.png =250x250)
-
-
-
-![DiaryEntry](https://user-images.githubusercontent.com/56123142/145954005-6d91e518-ba51-434d-a9d9-ae6375dbc8e4.png =250x250)
+<img src="https://github.com/pegion33/DiaryApp/blob/main/Project%20ScreenShot/SearchByDate.png" width="200" height="400" />
 
 
 
