@@ -16,7 +16,7 @@ The user can sort the diary entries by date
 The user can find diary entries of a specific date by tapping the calendar icon
 
 
-
+<img src="https://github.com/pegion33/DiaryApp/blob/main/Project%20ScreenShot/Diary.png" width="200" height="400" />
 
 ![Login](https://user-images.githubusercontent.com/56123142/145953924-40cb4e10-e25d-4d60-84e5-20ffe5471558.png =250x250)
 
