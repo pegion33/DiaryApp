@@ -32,3 +32,5 @@ The user can find diary entries of a specific date by tapping the calendar icon
 
 
 
+All The Icons are downloaded from : https://icons8.com
+
