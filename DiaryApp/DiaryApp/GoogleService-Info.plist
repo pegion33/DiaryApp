@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>233696971324-6rogbtsb9pu1fhdv2a10rnfnkcbudgtn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.233696971324-6rogbtsb9pu1fhdv2a10rnfnkcbudgtn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAe1-_6ObkcvUDmGHliWHiFHfNxlA6A7Tw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>233696971324</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Doggy.DiaryApp</string>
+	<key>PROJECT_ID</key>
+	<string>diaryapp-609f0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>diaryapp-609f0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:233696971324:ios:e85348177100b7cf99d139</string>
+</dict>
+</plist>
